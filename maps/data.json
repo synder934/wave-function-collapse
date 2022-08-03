@@ -1,0 +1,22 @@
+{
+    "1": {
+        "sides": ["ggg","ggg","ggg","ggg"],
+        "rotations": [0]
+    },
+    "2": {
+        "sides": ["www","www","www","www"],
+        "rotations": [0]
+    },
+    "3": {
+        "sides": ["ggg","gsw","www","wsg"],
+        "rotations": [0, 90, 180, 270]
+    },
+    "4": {
+        "sides": ["ggg","ggg","gsw","wsg"],
+        "rotations": [0, 90, 180, 270]
+    },
+    "5": {
+        "sides": ["gsw","www","www","wsg"],
+        "rotations": [0, 90, 180, 270]
+    }
+}
