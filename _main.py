@@ -5,10 +5,8 @@ import pygame as pg
 import tile
 import json
 
-#import sys; sys.path.append('Z:\\Code\\waveFunction\\images')
 
 vec = pg.Vector2
-
 TILESIZE = (32, 32)
 NUMOFTILES = (20, 20)
 DIM = (TILESIZE[0]*NUMOFTILES[0], TILESIZE[1]*NUMOFTILES[1])
