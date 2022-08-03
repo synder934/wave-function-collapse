@@ -5,7 +5,7 @@ import pygame as pg
 import tile
 import json
 
-import sys; sys.path.append('Z:\\Code\\waveFunction\\images')
+#import sys; sys.path.append('Z:\\Code\\waveFunction\\images')
 
 vec = pg.Vector2
 
