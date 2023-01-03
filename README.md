@@ -20,15 +20,15 @@ for Sides:
     as if you were going clockwize around the image, this can be any length
     but they all have to be the same length.
     
-  e.g: 
-            a b c
-        +-----------+
-        |           |   
-     c  |           |   a 
-     b  |           |   b
-     a  |           |   c
-        +-----------+
-            c b a 
+  #e.g: 
+  #          a b c
+  #      +-----------+
+  #      |           |   
+  #   c  |           |   a 
+  #   b  |           |   b
+  #   a  |           |   c
+  #      +-----------+
+  #          c b a 
             
             
 for rotations:
