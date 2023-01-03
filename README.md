@@ -20,7 +20,7 @@ for Sides:
     as if you were going clockwize around the image, this can be any length
     but they all have to be the same length.
     
-""
+~~~text
   e.g: 
             a b c
         +-----------+
@@ -30,7 +30,7 @@ for Sides:
      a  |           |   c
         +-----------+
             c b a 
-""
+~~~
             
 for rotations:
   - this is where you ad the rotations of the image, if your image is symetrical
